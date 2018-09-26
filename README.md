@@ -37,4 +37,7 @@ We want you to build this on your own. Some of the following methods are helpful
 * Think about how to determine which value is the lowest. Do you need to compare each value to something as you iterate? 
 * Think about how to collect or store the correct key. Remember that you need your method to return *just this key*. 
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-key-for-min-value/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-key-for-min-value/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Key For Minimum Value</p>
